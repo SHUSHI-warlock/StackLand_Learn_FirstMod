@@ -1,0 +1,18 @@
+{
+    "id": "wk_firstmod_golden_berry",
+    "nameTerm": "wk_firstmod_golden_berry_name",
+    "descriptionTerm": "wk_firstmod_golden_berry_description",
+    "icon": "berry",
+    "value": 10,
+    "type": "Food",
+    "script": "Food",
+    "_CanSpoil": false,
+    "_FoodValue": 10,
+    "_HasUniquePalette": true,
+    "_MyPalette": {
+      "Color": "#962832",
+      "Color2": "#146654",
+      "Icon": "#004088"
+    },
+    "IsShiny": true
+}

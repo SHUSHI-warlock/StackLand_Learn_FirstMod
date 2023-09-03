@@ -1,0 +1,13 @@
+{
+    "id": "wk_firstmod_blueprint_golden_berry",
+    "nameTerm": "wk_firstmod_golden_berry_name",
+    "group": "Cooking",
+    "subprints": [
+        {
+          "RequiredCards": "gold_bar, berry",
+          "ResultCard": "wk_firstmod_golden_berry",
+          "Time": 5,
+          "StatusTerm": "wk_firstmod_idea_golden_berry_status"
+        }
+      ]
+}
